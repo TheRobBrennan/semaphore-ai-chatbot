@@ -1,0 +1,19 @@
+{
+  "name": "semaphore-ai-chatbot",
+  "version": "0.0.0",
+  "description": "This project has been created to explore and review the Semaphore blog post Developing an AI Chatbot with the Vercel AI SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheRobBrennan/semaphore-ai-chatbot.git"
+  },
+  "author": "Rob Brennan <rob@therobbrennan.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheRobBrennan/semaphore-ai-chatbot/issues"
+  },
+  "homepage": "https://github.com/TheRobBrennan/semaphore-ai-chatbot#readme"
+}
